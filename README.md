@@ -1,5 +1,5 @@
 # Star-Pattern
-Python code for sorting array of elements.
+Python code for creating patterns in *.
 
 Tools used:
 1. Pycharm Community Edition 2019.3.1
