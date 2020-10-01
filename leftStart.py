@@ -1,3 +1,4 @@
+x = int(input('ENTER THE SIZE OF THE PYRAMID : '))
 def pattern(n):
     k = 2*n - 2
     for i in range(0,n):
@@ -18,5 +19,5 @@ def pattern(n):
             print("*",end="")
         print("\r")
 
-pattern(10)
+pattern(x)
 
